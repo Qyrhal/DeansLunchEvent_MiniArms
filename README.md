@@ -47,10 +47,8 @@ If Eshal has been kind enough to bless us with the new code, she'll update it in
 
 ## Troubleshooting
 
-- **Double-check your MAC addresses.** They are case-sensitive.
-- If the Serial Monitor is showing gibberish, try a different baud rate (115200 typically works).
-- If communication fails, press the reset button on the ESP32.
-
-That's it! You're basically a ESP32 whisperer now. Go show everyone how cooooool you are by making lights blink and robots move. You got this! :D
+- Ask AI
+- Ask Ekam
+- Cry
 
 If anything breaks... it's probably Eshal's fault. (IM KIDDING DONT KILL ME ESHAL)
